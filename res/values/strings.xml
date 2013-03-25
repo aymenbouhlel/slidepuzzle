@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">東方パズル</string>
+    <string name="menu_settings">閲覧</string>
+    <string name="menu_mode_slide">操作:スライドON</string>
+    <string name="menu_mode_touch">操作:スライドOFF</string>
+    <string name="reset">やり直す</string>
+    <string name="changeImg">出鱈目</string>
+    <string name="hint">入れ知恵</string>
+    <string name="topuzzle">パズルで遊ぶ。</string>
+    <string name="returnBtn">戻る。</string>
+    <string name="index_num">%1$2d/%2$d</string>
+    <string name="app_finish">終了しますか？</string>
+    <string name="ok">はい。</string>
+    <string name="no">まだ頑張る。</string>
+    <string name="no_record">- - : - -</string>	
+    <string name="twitterNotFound">Twitter公式アプリで、クリアタイムがつぶやけます</string>						      
+    <string name="twwet">東方パズルの「%1$s」を%2$s秒でクリアよ！ #東方パズル http://market.android.com/details?id=jp.suwashimizu.th.slidepuzzle</string>
+</resources>
